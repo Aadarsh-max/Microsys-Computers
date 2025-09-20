@@ -8,17 +8,13 @@ const Navbar = () => {
   return (
     <header className="bg-white shadow-md border-b-2 border-amber-200 rounded-b-2xl relative">
       <div className="container mx-auto flex items-center justify-between px-4 sm:px-6 py-4">
-        <h1 className="flex items-center text-sm xs:text-base sm:text-xl md:text-2xl lg:text-4xl font-extrabold text-amber-600 italic tracking-tight sm:tracking-wide gap-1 xs:gap-2 sm:gap-3 flex-shrink min-w-0">
+        <h1 className="flex items-center text-xl sm:text-2xl lg:text-4xl font-extrabold text-amber-600 italic tracking-wide gap-2 sm:gap-3">
           <img
             src="/microsys.jpg"
             alt="Logo"
-            className="h-6 w-6 xs:h-8 xs:w-8 sm:h-10 sm:w-10 object-contain align-middle flex-shrink-0"
+            className="h-8 w-8 sm:h-10 sm:w-10 object-contain align-middle"
           />
-          <span className="align-middle truncate">
-            <span className="block xs:hidden">Microsys</span>
-            <span className="hidden xs:block sm:hidden">Microsys Comp.</span>
-            <span className="hidden sm:block">Microsys Computers</span>
-          </span>
+          <span className="align-middle">Microsys Computers</span>
         </h1>
 
         <div className="lg:hidden">
