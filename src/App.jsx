@@ -9,6 +9,7 @@ import Courses from "./Courses/Courses";
 
 import Navbar from "./Navbar/Navbar";
 import Sidebar from "./Sidebar/Sidebar";
+import Footer from "./Footer/Footer";
 
 import Mscitpage from "./Detailed Courses/Mscitpage";
 import Tallypage from "./Detailed Courses/Tallypage";
@@ -49,6 +50,7 @@ const App = () => {
       </Routes>
       </div>
       </div>
+      <Footer/>
     </Router>
   );
 };
