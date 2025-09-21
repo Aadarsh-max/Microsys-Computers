@@ -195,7 +195,7 @@ const About = () => {
           <h2 className="text-2xl font-bold text-gray-800 mb-3">
             Manoj S. Churi
           </h2>
-          <p className="text-gray-600">🎓 B.Sc. | 📌 20+ years of experience</p>
+          <p className="text-gray-600">🎓 B.Com | 📌 20+ years of experience</p>
           <p className="text-gray-600">🎂 Age: 55</p>
           <p className="text-gray-600">✉️ manoj.churi22@gmail.com</p>
         </motion.div>
