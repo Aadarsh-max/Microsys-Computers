@@ -56,7 +56,7 @@ const Contact = () => {
                     Phone:
                   </span>
                   <a
-                    href="tel:9822783958"
+                    href="tel:9822683958"
                     className="hover:text-green-600 hover:underline transform hover:scale-105 transition-all duration-300 text-green-700"
                   >
                     98226 83958
