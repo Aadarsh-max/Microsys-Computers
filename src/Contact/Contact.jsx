@@ -59,7 +59,7 @@ const Contact = () => {
                     href="tel:9822783958"
                     className="hover:text-green-600 hover:underline transform hover:scale-105 transition-all duration-300 text-green-700"
                   >
-                    98227 83958
+                    98226 83958
                   </a>
                 </div>
               </div>
@@ -151,7 +151,7 @@ const Contact = () => {
 
                 <div className="group p-3 rounded-xl hover:bg-green-50/70 transition-all duration-300 border-l-4 border-transparent hover:border-green-500">
                   <a
-                    href="https://wa.me/9822783958"
+                    href="https://wa.me/9822683958"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center text-green-700 hover:text-green-600 transition-colors duration-300"
